@@ -1,0 +1,2 @@
+[console_scripts]
+junit_report_generator = junit2htmlreport.runner:start
